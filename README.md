@@ -29,6 +29,7 @@ Activate Dracula
 
 ![theme](https://user-images.githubusercontent.com/96319944/233413452-89759c02-3422-4ab4-811a-cad9c3c3fc62.png)
 
+Enjoy 🧛🏻‍♂️ on iSH
 
 ## Team
 
