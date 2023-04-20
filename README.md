@@ -2,6 +2,8 @@
 
 >Dracula for [iSH](https://github.com/ish-app/ish)
 
+[iSH](https://github.com/ish-app/ish) is a Linux shell for iOS
+
 ![Screenshot](./screenshot.png)
 
 ## Install
