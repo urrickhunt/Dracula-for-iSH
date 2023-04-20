@@ -11,7 +11,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+In order to use themes in iSH you need to use one of the newer [releases](https://github.com/ish-app/ish/releases)
 
 ## Team
 
