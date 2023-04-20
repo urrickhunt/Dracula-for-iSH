@@ -19,6 +19,16 @@ Simply download the Dracula.json theme
 
 [Dracula.json.zip](https://github.com/urrickhunt/Dracula-for-iSH/files/11287856/Dracula.json.zip)
 
+## Step 2
+
+Place Dracula.json theme in the iSH theme folder
+
+## Step 3
+
+Activate Dracula
+
+![theme](https://user-images.githubusercontent.com/96319944/233413452-89759c02-3422-4ab4-811a-cad9c3c3fc62.png)
+
 
 ## Team
 
