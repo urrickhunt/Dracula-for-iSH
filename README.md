@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [iSH](https://github.com/ish-app/ish)
 
-> A dark theme for [Foobar](https://foobar.com).
+>Dracula for [iSH](https://github.com/ish-app/ish)
 
 ![Screenshot](./screenshot.png)
 
