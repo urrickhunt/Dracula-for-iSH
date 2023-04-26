@@ -17,7 +17,7 @@ In order to use themes in iSH you will need to use one of the newer [releases](h
 
 Simply download the Dracula.json theme
 
-[Dracula.json.zip](https://github.com/urrickhunt/Dracula-for-iSH/files/11287856/Dracula.json.zip)
+[Dracula.zip](https://github.com/urrickhunt/Dracula-for-iSH/files/11332460/Dracula.zip)
 
 ## Step 2
 
