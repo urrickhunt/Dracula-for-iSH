@@ -11,7 +11,7 @@
 
 ## Install
 
-In order to use themes in iSH you will need to use either the current [AppStore version](https://apps.apple.com/us/app/ish-shell/id1436902243) or one of the newer [releases](https://github.com/ish-app/ish/releases)
+In order to use themes in iSH you will need to use either the current [AppStore version](https://apps.apple.com/us/app/ish-shell/id1436902243) or one of the newer [github releases](https://github.com/ish-app/ish/releases)
 
 ## Step 1
 
